@@ -1,0 +1,1 @@
+A breakout clone I made in JavaScript with [p5.js](https://p5js.org/), as my project for the Object-Oriented Programming course I have attended at my university.
